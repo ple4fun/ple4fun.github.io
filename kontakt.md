@@ -13,7 +13,7 @@ Tel.: +48 502 025 757 | +48 690 805 450
 Godziny kontaktu: pon.–pt. 9:00–17:00
 
 ## Formularz kontaktowy
-<form action="https://formspree.io/f/YOUR_FORMSPREE_CODE" method="POST">
+<form action="https://formspree.io/f/xyzdoobz" method="POST">
   <label>Imię i nazwisko<br><input type="text" name="name" required></label><br>
   <label>E‑mail<br><input type="email" name="email" required></label><br>
   <label>Temat<br><input type="text" name="subject"></label><br>
@@ -21,7 +21,6 @@ Godziny kontaktu: pon.–pt. 9:00–17:00
   <button type="submit">Wyślij</button>
 </form>
 
-<small>Możesz podmienić action formularza na własny backend lub inny serwis formularzy.</small>
 
 ---
 
