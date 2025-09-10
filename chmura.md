@@ -6,7 +6,7 @@ permalink: /chmura
 
 # Chmura — od migracji po utrzymanie
 
-- Serwer w chmurze - [Cloud IaaS] (/cloud)
+- Serwer w chmurze - [Cloud IaaS]({{ '/cloud' | relative_url }})
 - Przeniesienie poczty i plików do Microsoft 365.
 - Konfiguracja bezpieczeństwa: MFA, Conditional Access, DLP.
 - Zarządzanie urządzeniami i standardami konfiguracji (Intune).
