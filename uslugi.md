@@ -4,6 +4,8 @@ title: Usługi
 permalink: /uslugi
 ---
 
+[🏠 Strona główna](/) | [💼 Usługi](/uslugi) | [📞 Kontakt](/kontakt)
+
 # Usługi IT4us
 
 ## Outsourcing IT (abonament)
