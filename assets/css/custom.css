@@ -1,95 +1,18 @@
-/* Ogólne tło i tekst */
-body {
-  background-color: #111;     /* czarne tło */
-  color: #f5f5f5;             /* jasny tekst */
-  font-family: "Segoe UI", Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-}
 
-/* Pasek nawigacyjny */
-.navbar {
-  background: #c70000;        /* intensywna czerwień */
-  padding: 12px;
+.hero {
   text-align: center;
-  position: sticky;
-  top: 0;
-  z-index: 1000;
+  padding: 2rem 1rem;
 }
-.navbar a {
-  color: #fff;
-  margin: 0 15px;
-  text-decoration: none;
-  font-weight: bold;
-}
-.navbar a:hover {
-  text-decoration: underline;
-  color: #ffcccc;
-}
-
-/* Linki w treści */
-a {
-  color: #ff3333;
-}
-a:hover {
-  color: #ff6666;
-}
-
-/* Nagłówki */
-h1, h2, h3, h4 {
-  color: #ff1a1a;
-  margin-top: 1.4em;
-  margin-bottom: 0.6em;
-}
-
-/* Przycisk główny */
-.btn {
+.hero .cta .btn {
   display: inline-block;
-  padding: 0.6rem 1.2rem;
-  margin: 0.3rem;
-  border-radius: 6px;
+  padding: .6rem 1rem;
+  border: 1px solid #000;
   text-decoration: none;
-  font-weight: bold;
-  border: 2px solid #c70000;
-  color: #fff;
-  background-color: #c70000;
-  transition: all 0.2s ease;
+  margin: .2rem;
+  border-radius: 6px;
 }
-.btn:hover {
-  background-color: #ff1a1a;
-  border-color: #ff1a1a;
-}
-
-/* Przycisk dodatkowy */
-.btn-secondary {
-  background-color: transparent;
-  color: #c70000;
-}
-.btn-secondary:hover {
-  background-color: #222;
-  color: #ff3333;
-}
-
-/* Główny kontent */
-main {
-  max-width: 900px;
-  margin: 2rem auto;
-  padding: 0 1rem;
-  line-height: 1.6;
-}
-
-/* Stopka */
-footer {
-  background: #000;
-  color: #aaa;
-  text-align: center;
-  padding: 15px;
-  margin-top: 3rem;
-  font-size: 0.9em;
-}
-footer a {
-  color: #ff3333;
-}
-footer a:hover {
-  color: #ff6666;
-}
+.btn-secondary { opacity: 0.9; }
+.btn-tertiary { opacity: 0.8; }
+main a.btn { color: inherit; }
+form input, form textarea { width: 100%; max-width: 560px; }
+form button { padding: .6rem 1rem; border: 1px solid #000; border-radius: 6px; background: none; }
