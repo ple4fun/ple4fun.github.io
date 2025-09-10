@@ -3,7 +3,7 @@ layout: default
 title: Chmura IT4us
 permalink: /cloud
 ---
-
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 <div class="hero">
   <p class="cta">
     <a href="{{ '/' | relative_url }}" class="btn">Strona główna</a>
