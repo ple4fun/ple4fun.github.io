@@ -1,4 +1,12 @@
-theme: jekyll-theme-cayman
+
 title: IT4us — Informatyka dla biznesu
+description: Zarządzamy IT, chronimy i archiwizujemy dane, doradzamy oraz zapewniamy stałe wsparcie użytkowników.
 lang: pl
+theme: jekyll-theme-cayman
 timezone: Europe/Warsaw
+author: IT4us
+# url: https://it4us.pl
+# baseurl: ""
+google_analytics:
+exclude:
+  - README.md

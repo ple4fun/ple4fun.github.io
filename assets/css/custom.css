@@ -1,0 +1,18 @@
+
+.hero {
+  text-align: center;
+  padding: 2rem 1rem;
+}
+.hero .cta .btn {
+  display: inline-block;
+  padding: .6rem 1rem;
+  border: 1px solid #000;
+  text-decoration: none;
+  margin: .2rem;
+  border-radius: 6px;
+}
+.btn-secondary { opacity: 0.9; }
+.btn-tertiary { opacity: 0.8; }
+main a.btn { color: inherit; }
+form input, form textarea { width: 100%; max-width: 560px; }
+form button { padding: .6rem 1rem; border: 1px solid #000; border-radius: 6px; background: none; }
