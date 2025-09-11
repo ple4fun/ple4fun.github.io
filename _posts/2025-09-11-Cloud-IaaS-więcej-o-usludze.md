@@ -25,5 +25,5 @@ Rozwiązanie gwarantuje wysoką dostępność aplikacji, stabilną pracę i bezp
 Kopie bezpieczeństwa baz są wykonywane codziennie do odrębnego centrum danych (najbezpieczniejsze centrum danych na terenie Rzeczypospolitej, spełnione normy i certyfikaty ISO 9001:2015, ISO/IEC 27001:2013, PCI DSS v. 4.0) w formie szyfrowanej, z możliwością odtworzenia każdego dnia 30 dni wstecz, w technologii Commvault (https://www.commvault.com), z wykorzystaniem usługi BaaS firmy Atman Sp. z o.o. 
 
 
-[Klasyfikacja TIER centrum danyc](https://www.gov.pl/web/popcwsparcie/klasyfikacja-tier-centrum-danych-datacenter) 
+[Klasyfikacja TIER centrum danych](https://www.gov.pl/web/popcwsparcie/klasyfikacja-tier-centrum-danych-datacenter) 
 
