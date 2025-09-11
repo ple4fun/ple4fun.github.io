@@ -10,3 +10,6 @@ Serwis nie gromadzi danych osobowych poza informacjami przekazanymi dobrowolnie 
 
 
 ![Engelbart|100x145](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+
+<img src="https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg"
+     alt="Engelbart" width="100" height="145">
