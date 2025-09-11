@@ -16,3 +16,16 @@
 main a.btn { color: inherit; }
 form input, form textarea { width: 100%; max-width: 560px; }
 form button { padding: .6rem 1rem; border: 1px solid #000; border-radius: 6px; background: none; }
+.post {
+  margin: 2rem auto;
+  max-width: 800px;
+}
+
+.post-date {
+  font-size: 0.9em;
+  color: #bbb;
+  margin-bottom: 1.2rem;
+}
+.post-content {
+  line-height: 1.7;
+}
