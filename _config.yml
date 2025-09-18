@@ -9,3 +9,4 @@ author: IT4us
 google_analytics:
 exclude:
   - README.md
+footer_content: "IT4us"
