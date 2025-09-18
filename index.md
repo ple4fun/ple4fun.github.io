@@ -9,6 +9,7 @@ title: IT4us — Wsparcie IT dla biznesu
   <h1>IT4us</h1>
   <p>Informatyka dla biznesu: zarządzanie IT, bezpieczeństwo i chmura.</p>
   <p class="cta">
+    <a href="{{ '/blog' | relative_url }}" class="btn btn-tertiary">Dowiedz się więcej</a>
     <a href="{{ '/uslugi' | relative_url }}" class="btn">Usługi</a>
     <a href="{{ '/kontakt' | relative_url }}" class="btn btn-secondary">Kontakt</a>
     <a href="{{ '/en/' | relative_url }}" class="btn btn-tertiary">English</a>
