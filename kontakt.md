@@ -4,6 +4,13 @@ title: Kontakt
 permalink: /kontakt
 ---
 
+<div class="hero">
+  <p class="cta">
+    <a href="{{ '/uslugi' | relative_url }}" class="btn">Usługi</a>
+    <a href="{{ '/kontakt' | relative_url }}" class="btn btn-secondary">Kontakt</a>
+  </p>
+</div>
+
 # Skontaktuj się z nami
 
 **IT4us — Informatyka dla biznesu**  
