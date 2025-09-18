@@ -1,5 +1,6 @@
 
 .hero {
+  @import url("navigation.html");
   text-align: center;
   padding: 2rem 1rem;
 }
