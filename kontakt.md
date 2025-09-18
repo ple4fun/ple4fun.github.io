@@ -6,7 +6,7 @@ permalink: /kontakt
 
 <div class="hero">
   <p class="cta">
-    <a href="{{ '/uslugi' | relative_url }}" class="btn">Usługi</a>
+    <a href="{{ '/' | relative_url }}" class="btn">Strona główna</a>
     <a href="{{ '/kontakt' | relative_url }}" class="btn btn-secondary">Kontakt</a>
   </p>
 </div>
