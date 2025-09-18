@@ -44,8 +44,4 @@ title: IT4us — Wsparcie IT dla biznesu
 {% endfor %}
 </ul>
 
-<style>
-  .footer {
-    display: none;
-  }
-</style>
+
