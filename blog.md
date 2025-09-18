@@ -4,6 +4,14 @@ title: Dowiedz się więcej
 permalink: /blog
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+<div class="hero">
+  <p class="cta">
+    <a href="{{ '/' | relative_url }}" class="btn">Strona główna</a>
+    <a href="{{ '/kontakt' | relative_url }}" class="btn btn-secondary">Kontakt</a>
+  </p>
+</div>
+
 ### Dowiedz się więcej
 {% assign posts = site.posts | slice: 0, 3 %}
 <ul>
