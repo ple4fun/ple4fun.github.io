@@ -43,3 +43,9 @@ title: IT4us — Wsparcie IT dla biznesu
   <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> <small>— {{ post.date | date: "%Y-%m-%d" }}</small></li>
 {% endfor %}
 </ul>
+
+<style>
+  .footer {
+    display: none;
+  }
+</style>
