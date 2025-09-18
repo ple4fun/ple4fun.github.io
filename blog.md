@@ -1,3 +1,9 @@
+---
+layout: default
+title: Dowiedz się więcej
+permalink: /blog
+---
+
 ### Dowiedz się więcej
 {% assign posts = site.posts | slice: 0, 3 %}
 <ul>
