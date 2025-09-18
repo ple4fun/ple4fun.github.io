@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dowiedz się więcej
+title: Witaj na blogu
 permalink: /blog
 ---
 
