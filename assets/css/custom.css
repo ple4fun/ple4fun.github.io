@@ -32,8 +32,8 @@ form button { padding: .6rem 1rem; border: 1px solid #000; border-radius: 6px; b
 
 .site-footer {
   display: block !important;
-  background: #fff;          /* białe tło */
-  color: #000;               /* czarny tekst */
+  background: transparent;          /* przeźroczyste tło */
+  color: #666;               /* ciemnoszary tekst */
   text-align: center;
   padding: 20px;
   font-size: 0.9em;
