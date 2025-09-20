@@ -1,7 +1,9 @@
 ---
 layout: default
-title: IT4us — IT for business
+title: IT4us — IT for Business
 permalink: /en/
+lang: en
+description: We manage IT, protect and archive data, provide consulting and continuous user support.
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
@@ -12,6 +14,7 @@ permalink: /en/
   <p class="cta">
     <a href="{{ '/en/services' | relative_url }}" class="btn">Services</a>
     <a href="{{ '/kontakt' | relative_url }}" class="btn btn-secondary">Contact (PL)</a>
+    <a href="{{ '/' | relative_url }}" class="btn btn-secondary">Home(PL)</a>
   </p>
 </div>
 
