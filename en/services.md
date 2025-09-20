@@ -2,6 +2,8 @@
 layout: default
 title: Services
 permalink: /en/services
+lang: en
+description: We manage IT, protect and archive data, provide consulting and continuous user support.
 ---
 
 # Services
