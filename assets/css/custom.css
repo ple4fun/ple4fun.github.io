@@ -30,20 +30,7 @@ form button { padding: .6rem 1rem; border: 1px solid #000; border-radius: 6px; b
   line-height: 1.7;
 }
 
-.site-footer {
-  display: block !important;
-  background: transparent;          /* przeźroczyste tło */
-  color: #666;               /* ciemnoszary tekst */
-  text-align: center;
-  padding: 20px;
-  font-size: 0.9em;
-}
-.site-footer a {
-  color: #ff3333;
-}
-.site-footer a:hover {
-  color: #ff6666;
-}
+.site-footer { display: none; }
 
 
 /* --- przyciski: wygląd + kontrast --- */
