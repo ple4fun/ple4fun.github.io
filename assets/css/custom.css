@@ -34,7 +34,7 @@ form button { padding: .6rem 1rem; border: 1px solid #000; border-radius: 6px; b
 
 
 
-/* --- przyciski: cienka czcionka, bold po hover --- */
+/* --- przyciski: jasnoszary tekst, mocniejsze przyciemnienie przy hover --- */
 a.btn,
 .hero .cta .btn {
   display: inline-block;
@@ -43,15 +43,14 @@ a.btn,
   border-radius: 6px;
   text-decoration: none;
   background: transparent;
-  color: #555;              /* lekko szary napis */
-  font-weight: 300;         /* cienka czcionka */
-  transition: color 0.2s ease, font-weight 0.2s ease;
+  color: #666;              /* jasnoszary tekst */
+  font-weight: 400;
+  transition: color 0.2s ease;
 }
 
 a.btn:hover,
 .hero .cta .btn:hover {
-  color: #222;              /* ciemniejszy napis */
-  font-weight: 700;         /* bold przy hover */
+  color: #111;              /* wyraźnie ciemniejszy przy hover */
   border-color: #000;
   background: transparent;
 }
@@ -63,9 +62,7 @@ a.btn:hover,
 /* linki w treści artykułów/blogów */
 main a:not(.btn) {
   color: #0645ad;
-  font-weight: 400;
 }
 main a:not(.btn):hover {
   color: #0b0080;
-  font-weight: 600;
 }
