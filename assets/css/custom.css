@@ -61,8 +61,11 @@ a.btn:hover,
 
 /* linki w treści artykułów/blogów */
 main a:not(.btn) {
-  color: #0645ad;
+  color: #0645ad;            /* klasyczny niebieski link */
+  font-weight: 400;          /* normalna grubość, jak reszta tekstu */
+  text-decoration: none;     /* bez podkreślenia domyślnie */
 }
+
 main a:not(.btn):hover {
-  color: #0b0080;
+  text-decoration: underline; /* tylko podkreślenie przy hover */
 }
