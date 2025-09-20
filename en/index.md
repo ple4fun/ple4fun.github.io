@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: IT4us — IT for business
