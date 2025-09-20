@@ -29,3 +29,43 @@ form button { padding: .6rem 1rem; border: 1px solid #000; border-radius: 6px; b
 .post-content {
   line-height: 1.7;
 }
+
+.site-footer {
+   display: none;
+}
+
+
+/* --- przyciski: wygląd + kontrast --- */
+a.btn,
+.hero .cta .btn {
+  display: inline-block;
+  padding: .6rem 1rem;
+  border: 2px solid #c70000;
+  border-radius: 6px;
+  text-decoration: none;
+  background: #c70000;
+  color: #fff !important;   /* kluczowe: zawsze biały tekst */
+  font-weight: 700;
+}
+
+a.btn:hover,
+.hero .cta .btn:hover {
+  background: #ff1a1a;
+  border-color: #ff1a1a;
+  color: #fff !important;   /* nie zmieniaj koloru napisu na hover */
+}
+
+/* warianty przycisków */
+a.btn-secondary {
+  background: transparent;
+  color: #c70000 !important;
+  border-color: #c70000;
+}
+a.btn-secondary:hover {
+  background: #c70000;
+  color: #fff !important;
+}
+
+/* ogranicz globalne kolory linków do treści, nie do przycisków */
+main a:not(.btn) { color: #ff3333; }
+main a:not(.btn):hover { color: #ff6666; }
