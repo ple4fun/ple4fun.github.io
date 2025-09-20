@@ -62,4 +62,4 @@ Dzięki temu Twoja strona będzie działała szybko, tanio i bez zbędnych kompl
 
 ---
 
-👉 Chcesz dowiedzieć się więcej? Skontaktuj się z nami ([Kontakt]({{ '/en/cloud' | relative_url }}))  – **IT4us** pomoże Ci postawić prostą stronę w kilka godzin!
+👉 Chcesz dowiedzieć się więcej? Skontaktuj się z nami ([Kontakt]({{ '/kontakt' | relative_url }}))  – **IT4us** pomoże Ci postawić prostą stronę w kilka godzin!
